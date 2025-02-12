@@ -1,4 +1,4 @@
-# SmartNotes-Java
+# Smart Notes AI
 
 A JavaFX-based smart note-taking app with AI-powered summarization and speech-to-text.
 
